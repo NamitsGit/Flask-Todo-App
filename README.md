@@ -25,3 +25,7 @@ So the todos table will look something like this
 |1|Todo1|Bring ice-cream from the shop|2023-07-16 21:33:88.123456|
 |2|...|...|...|
 
+# Steps to run the app
+1. Make sure you have installed the specific versions of module requirements by using the command `pip install -r /path/to/requirements.txt` 
+2. Activate the virtual environment by using the command `<virtual_environment_name>/Scripts/activate` if you're on a linux machine or `.\<virtual_environment_name>\Scripts\activate.ps1` if on Windows Powershell (in this app the virtual environment name is given as `.venv` according to the popular convention).
+3. Run the app by using the command `python .\app.py`
