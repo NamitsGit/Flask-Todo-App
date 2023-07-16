@@ -1,5 +1,5 @@
 # Flask-Todo-App
-A todo app which demonstrates Python Flask framework, uses SQLite (CRUD operations) database and Bootstrap v5.3 for frontend.
+A todo app which demonstrates Python Flask framework, Jinja2 templating , and uses SQLite (CRUD operations) database and Bootstrap v5.3 for frontend.
 
 # What is a todo?
 A todo is a table record representing a real-world task (performing action X at place Y).
